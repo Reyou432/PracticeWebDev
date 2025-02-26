@@ -1,3 +1,15 @@
+body{
+    text-align: left;
+    background-color: beige;
+}
+
+
+nav, h2, p{
+    text-align: center;
+}
+
+
 table, th, td{
     border: 1px solid black;
+    align-items: center;
 }
