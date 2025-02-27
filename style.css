@@ -4,10 +4,6 @@ body{
 }
 
 
-nav, h2, p{
-    text-align: center;
-}
-
 
 table, th, td{
     border: 1px solid black;
